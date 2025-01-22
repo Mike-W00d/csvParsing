@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "csv-parser": "^3.1.0",
+    "jest": "^29.7.0",
+    "moment": "^2.30.1"
+  }
+}
